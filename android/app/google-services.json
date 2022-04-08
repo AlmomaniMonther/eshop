@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728487490758",
+    "project_id": "eshop-f5399",
+    "storage_bucket": "eshop-f5399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728487490758:android:cc25fabf5b53eb6de653c7",
+        "android_client_info": {
+          "package_name": "com.almomani.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728487490758-4fu4nma2ui60388udqgu649i9e0pggob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3B7rDDdy5EatM85vy-HCLQz2HRgcaW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728487490758-4fu4nma2ui60388udqgu649i9e0pggob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
